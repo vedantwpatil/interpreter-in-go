@@ -7,4 +7,4 @@ A big strength of go is the simplicity of the language. This is something which 
 
 
 ## Current Chapter 
-Chapter 1.5 Start of a REPL 
+Chapter 2.1 Parsers 
